@@ -1,0 +1,26 @@
+body{
+    background-color: 
+}
+div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+input {
+    display: block   
+}
+
+.Id {
+    text-align: left;
+    padding-right: 
+    padding-left: 
+}
+
+.Ano {
+    text-align: center;
+}
+
+.Duracao {
+    text-align: right;
+}
+
